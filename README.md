@@ -10,13 +10,13 @@
 </ul>
 <p>Os visitantes também poderão entrar em contato conosco através das redes sociais ou por meio de um formulário.</p>
 
-## Requisitos pedidos
+## Requisitos Pedidos
 - div
 - Tabela
 - Formulário
 - CSS
 - HTML
 
-## Ferramentas
+## Ferramentas Utilizadas
 - [Lightbox] (https://lokeshdhakar.com/projects/lightbox2/) - Uma biblioteca que permite aumentar a imagem ao clicar nela, além de possibilitar um carrossel de imagens.
 
