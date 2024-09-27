@@ -19,5 +19,5 @@
 
 ## Ferramentas Utilizadas
 - [Lightbox] (https://lokeshdhakar.com/projects/lightbox2/) - Uma biblioteca que permite aumentar a imagem ao clicar nela, além de possibilitar um carrossel de imagens.
-- [Bootstrap] {https://icons.getbootstrap.com/} - Utilizadas para ícones de redes sociais.
+- [Bootstrap] {https://icons.getbootstrap.com/} - Utilizada para ícones de redes sociais.
 
