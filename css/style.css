@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #4E0000;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    flex-direction: column;
+}
+
+.space {
+    height: 100px;
+}
+
+.wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+}
+
+.logo {
+    cursor: pointer;
+    float: left;
+    font-size: 35px;
+    color: white;
+    padding: 35px 40px;
+    margin-left: 0;
+    margin-top: -20px;
+    cursor: pointer;
+}
+
+.nav-list {
+    display: flex;
+    gap: 50px;
+    font-size: 25px;
+    padding: 35px 30px;
+    margin-top: -20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+    
+.hero {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1) 100%), url("../images/hero.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-title {
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    opacity: 0.7;
+
+}
+
+body {
+    overflow-x: hidden;
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 0px;
+}
+
+.subtitle {
+    background: linear-gradient(to right, rgba(78, 0, 0, 0.7) 30%, rgba(78, 0, 0, 0) 70%);
+    color: white;
+    padding: 30px 40px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+main {
+    background-color: black;
+    height: 300px;
+    color: white;
+
+    margin: 50px auto;
+    padding: 0 20px;
+    align-items: center;
+    min-height: 100vh;
+    margin-top: 100px;
+}
+
+/* story */
+
+.story-text {
+    font-size: 21px;
+    line-height: 2;
+    max-width: 700px;
+    padding: 0 16px;
+    margin: 160px auto 80px; 
+    text-shadow: 2px 2px 10px #4E0000,
+    -2px 2px 10px #4E0000,
+    2px -2px 10px red,
+    -2px -2px 10px red;
+}
+
+.story-text p {
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+.story-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    margin-top: -60px;
+}
+
+/* video */
+
+.video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    margin-top: -70px;
+    margin-bottom: -70px;
+    
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
+.video iframe {
+    width: 60%;
+    height: 60%;
+}
+
+/* gallry */
+
+.imagens {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.box-img {
+    margin: 5px;
+    border: 1px solid #000;
+}
+
+.img {
+    object-fit: cover;
+    width: 300px;
+    height: 100%;
+}
+
+/* product */
+
+.pack {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.style-product {
+    border-collapse: collapse;
+    border: 1px solid white;
+    width: auto;
+    margin-bottom: 2px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.style-product th,
+.style-product td {
+    padding: 12px 15px;
+    border: 1px solid white;
+    line-height: 2;
+}
+
+.style-product th {
+    text-align: left;
+}
+
+.style-product td {
+    text-align: center;
+}
+
+footer {
+    background-color: #4E0000;
+    width: 100%;
+    margin-top: 20px;
+    position: relative;
+    bottom: 0;
+    clear: both;
+}
+
+.footer-title {
+    padding: 30px;
+    color: white;
+    font-size: 30px;
+}
+
+.contact-box {
+    font-size: 30px;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    height: 100%;
+    padding: 0px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.contact-box a {
+    margin-top: -50px;
+}
+
+.space-footer {
+    height: 3200px;
+}
+
+
+
+
