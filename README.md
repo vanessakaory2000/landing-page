@@ -3,8 +3,8 @@
 ## Sobre
 <p>Este projeto é um Landing Page da disciplina de Desenvolvimento Web. Ele descreve as informações básicas sobre o jogo Collar x Malice. Na página, os visitantes encontrarão:</p>
 <ul>
-  <li>Um resumo da História</li>
-  <li>O Trailer que captura a essência do jogo</li>
+  <li>Introdução à História</li>
+  <li>Trailer que captura a essência do jogo</li>
   <li>Algumas imagens que ilustram os mpmentos chave</li>
   <li>Informações do produto em si</li>
 </ul>
