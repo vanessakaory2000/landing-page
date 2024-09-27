@@ -5,7 +5,7 @@
 <ul>
   <li>Introdução à História</li>
   <li>Trailer que captura a essência do jogo</li>
-  <li>Algumas imagens que ilustram os mpmentos chave</li>
+  <li>Algumas imagens que ilustram os momentos chave</li>
   <li>Informações do produto em si</li>
 </ul>
 <p>Os visitantes também poderão entrar em contato conosco através das redes sociais ou por meio de um formulário.</p>
